@@ -27,7 +27,7 @@
 
 ### Installation
 
-1. Clone the repository: `git clone https://github.com/vanshchauhan1310/Thief-Detection-Alaram.git`
+1. Clone the repository: `git clone https://github.com/Rajatbisht12/theftdetection.git`
 2. Install dependencies: `npm install`
 3. Create a `.env` file with your Cloudinary API key and Twilio WhatsApp sandbox number
 4. Start the server: `npm start`
@@ -54,6 +54,3 @@ This project is licensed under the MIT License.
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-## Author
-
-Vansh Raj Chauhan
