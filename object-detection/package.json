@@ -1,0 +1,31 @@
+{
+  "name": "object-detection",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tensorflow-models/coco-ssd": "^2.2.3",
+    "@tensorflow/tfjs": "^4.21.0",
+    "axios": "^1.7.7",
+    "cloudinary": "^2.5.0",
+    "cloudinary-react": "^1.8.1",
+    "next": "14.2.11",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-native-rtsp": "^1.0.1",
+    "react-webcam": "^7.2.0",
+    "rtsp-player": "^1.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.11",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
